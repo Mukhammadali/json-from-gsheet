@@ -1,0 +1,38 @@
+{
+  "name": "json-from-gsheet",
+  "version": "1.0.0",
+  "description": "Extract i18n translations from Google Spreadsheet to json files",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukhammadali/json-from-gsheet.git"
+  },
+  "keywords": [
+    "google-spreadsheet",
+    "spreadsheet-to-json",
+    "i18n-sheets",
+    "i18n-from-sheets",
+    "i18n",
+    "google-spreasheet",
+    "spreadsheet"
+  ],
+  "author": {
+    "email": "toshboev7@gmail.com",
+    "name": "Muhammad Ali",
+    "url": "https://mukhammadali.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mukhammadali/json-from-gsheet/issues"
+  },
+  "homepage": "https://github.com/Mukhammadali/json-from-gsheet#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
