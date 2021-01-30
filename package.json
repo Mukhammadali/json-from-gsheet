@@ -1,6 +1,6 @@
 {
   "name": "json-from-gsheet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extract i18n translations from Google Spreadsheet to json files",
   "main": "./lib/index.js",
   "directories": {
